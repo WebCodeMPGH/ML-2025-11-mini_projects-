@@ -1,11 +1,8 @@
-Got it Mohammad Reza.  
-From our past chats, I know you want something **clear, practical, and professional** for your GitHub README — no fluff, but still attractive so people know what you’re working on.  
 
-Here’s a **draft README** for your GitHub that reflects your learning path, skills, and style based on all our conversations:  
 
 ---
 
-# 📊 Mohammad Reza – AI & Data Science Projects
+# 📊 Mohammad Parham – AI & Data Science Projects
 
 Welcome to my GitHub!  
 I focus on **practical, monetizable AI and Data Science** with an emphasis on **clear learning roadmaps, hands-on coding, and real-world datasets**.
